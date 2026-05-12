@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+scikit-learn
+mlxtend
+yellowbrick
+pyclustering
+scipy
+networkx
+surprise
+ipywidgets
